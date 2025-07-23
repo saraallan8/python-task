@@ -1,4 +1,4 @@
-this is to do list using python every task has ( name, discription, category, priority, status)
+#this is to do list using python every task has ( name, discription, category, priority, status)
 *you can add task with all his attributes
 *you can edit the task 
 *you can view the list 

@@ -7,3 +7,4 @@
 *list sorted ascending order
 *list sorted descending order
 *and exit from list
+*handles Errors
